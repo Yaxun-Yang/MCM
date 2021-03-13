@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unlabeled-imgs</folder>
+	<filename>naver_0394.jpg</filename>
+	<path>/Users/noopy/murder_hornet_dataset/unlabeled-imgs/naver_0394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian_giant_hornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>159</ymin>
+			<xmax>432</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

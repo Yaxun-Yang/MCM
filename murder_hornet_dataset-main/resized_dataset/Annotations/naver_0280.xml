@@ -1,0 +1,26 @@
+<annotation>
+	<folder>asian-giant-hornet-imgs</folder>
+	<filename>naver_0280.jpg</filename>
+	<path>/Users/noopy/murder_hornet_dataset/asian-giant-hornet-imgs/naver_0280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asian_giant_hornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107.0</xmin>
+			<ymin>102.0</ymin>
+			<xmax>613.0</xmax>
+			<ymax>454.0</ymax>
+		</bndbox>
+	</object>
+</annotation>
